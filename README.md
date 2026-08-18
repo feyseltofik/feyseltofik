@@ -1,15 +1,16 @@
-## Hi 👋 I'm Feysel Tofik
-
+<p align="center">
+Hi 👋 I'm Feysel Tofik
+</p>
+<p align="center">
 A passionate data analyst from Ethiopia
+  </p>
 
-<!--
-**feyseltofik/feyseltofik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning SQL, Power BI and strengthening my skills in data analysis
-- 👯 I’m looking to collaborate on beginner-friendly data analytics projects, especially those using SQL, Excel, and Power BI.
-- 💬 Ask me about Excel, SQL, Power BI, data analysis
+  
+- 🌱 I’m currently learning SQL, Power BI and Python
+  
+- 👯 I’m looking to collaborate on beginner-friendly data projects
+  
+- 🤔 I’m looking for help with building real-world analytics projects
+    
 - 📫 How to reach me: feyseltofik22@gmail.com
--->
+
